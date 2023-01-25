@@ -31,7 +31,9 @@ Recurrent  NN :循环神经网络，处理一维序列化数据比如: video   ,
 
 几个公式:
 $$
+注意：\frac {\partial J(w,b)}{\partial z} 我们会称之为dz(z为a,b,w同样适用)
 L = \hat ylog a+(1-\hat y)log(1-a) \\
+J=****
 \frac {\partial J(w,b)}{\partial z} = \hat y -a  \\
 \frac {\partial J(w,b)}{\partial L}
 $$
