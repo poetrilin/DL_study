@@ -1,4 +1,5 @@
-这里是大二蒟蒻学习吴恩达老师网课的笔记，部分内容来自上课内容/ppt/..的github仓库.
+这里是大二蒟蒻学习吴恩达老师网课的笔记，部分内容来自上课内容(([上课网站](deeplearning.ai))以及[一个github仓库].
+但是暂时大部分是随手做的笔记，所以可能参考性有限.
 ## Lesoon Content
 > Folowings from Andrew
 

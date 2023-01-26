@@ -34,3 +34,4 @@ $da^{[n]}=dz^{[n+1]}\times W^{T[n+1]},dz^{[n]}=da^{[n]}\times\frac{\partial a}{\
 upgrade:
 主要是对参数W,b进行修正,其中$\alpha $为学习率
 $$W=W-\alpha dW,b=b-\alpha db$$
+
